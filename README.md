@@ -1,223 +1,82 @@
+<!-- ================= HEADER ================= -->
+
 <div align="center">
 
-# DANISH ISAAC TAN
-
-**PROFESSIONAL DEVELOPMENT PORTFOLIO**
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:2563EB,100:7C3AED&text=DANISH%20ISAAC%20TAN&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=65&descSize=15" width="100%" />
 
 <br>
 
-# Hi, I'm
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=650&lines=Welcome+to+my+GitHub+profile!;Computer+Science+%40+UTM;Aspiring+Software+Engineer;Exploring+Cybersecurity+%26+AI;Learning.+Building.+Growing." />
 
-# Danish Isaac Tan
+<br><br>
 
-### Computer Science Student
+<a href="https://github.com/Isaac">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/danishisaactan/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:isaactan3107@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-Interested in software development, computer networks, cybersecurity and emerging technologies. I am building my technical foundation through continuous learning, programming and hands-on practice.
+<br><br>
 
-<br>
-
-[**Discover More ↘**](#01--introduction) &nbsp;&nbsp;&nbsp; [**Connect With Me ↗**](#05--get-in-touch)
-
-<br>
-
-Currently studying at **Universiti Teknologi Malaysia (UTM)** · Malaysia
-
-<br>
-
----
-
-**STUDENT PROFILE**
-
-<br>
-
-### LEARN · BUILD · GROW
-
-`JAVA` &nbsp; `C++` &nbsp; `JAVASCRIPT` &nbsp; `HTML` &nbsp; `MYSQL`
-
-<br>
-
-**01 / CURIOUS MIND**
-
-*Future-Focused ↗*
+📍 Malaysia &nbsp; • &nbsp; 🎓 Universiti Teknologi Malaysia &nbsp; • &nbsp; 💻 Computer Science
 
 </div>
 
 ---
+
+<!-- ================= ABOUT ME ================= -->
 
 ## 01 / INTRODUCTION
 
-# About Me
+<table>
+<tr>
+<td width="65%" valign="middle">
 
-**Curious about how technology works and how it can make a difference.**
+### Hey, I'm Danish Isaac Tan! 👋
 
-I am Danish Isaac Tan, a Computer Science student at Universiti Teknologi Malaysia, pursuing a degree in Computer Science (Network and Security).
+I am a Computer Science student at **Universiti Teknologi Malaysia (UTM)**, pursuing a degree in **Computer Science (Network and Security)**.
 
-I am passionate about technology, programming, software development and cybersecurity. I enjoy exploring new technologies, developing technical skills and challenging myself through programming and practical projects.
+I am passionate about technology, programming and exploring innovative solutions to real-world problems.
 
-I believe that continuous learning and practical experience are essential to becoming a capable software engineer.
+My interests include software development, web technologies, artificial intelligence, cybersecurity and data science.
+
+I enjoy learning new technologies, strengthening my technical foundation and continuously challenging myself through practical development.
+
+**My goal is to become a Software Engineer.**
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" alt="Coding animation"/>
+
+</td>
+</tr>
+</table>
+
+### Currently
+
+- 🎓 Studying Computer Science (Network and Security).
+- 💻 Developing programming and software development skills.
+- 🔐 Exploring cybersecurity and network security.
+- 🤖 Learning about AI and Machine Learning.
+- 🚀 Working towards becoming a Software Engineer.
 
 ---
+
+<!-- ================= EDUCATION ================= -->
 
 ## 02 / ACADEMIC BACKGROUND
 
-# My Education
-
-The academic journey shaping my foundation in computer science, networking and information security.
-
-**UNDERGRADUATE STUDIES**
-
-### Universiti Teknologi Malaysia (UTM)
-
-Bachelor of Computer Science (Network and Security)
-
-Currently developing knowledge and technical skills in computer science, programming, computer networks and cybersecurity.
-
-**FIELD OF STUDY**
-
-`COMPUTER SCIENCE` &nbsp; `NETWORKS` &nbsp; `SECURITY`
-
----
-
-## 03 / TECHNICAL FOUNDATION
-
-# Skills & Tools
-
-The programming languages, technologies and development tools I use as I continue expanding my technical capabilities.
-
-### 01 / Programming
-
-Building programming fundamentals, developing logical thinking and practising problem-solving.
-
-`Java` &nbsp; `C++` &nbsp; `JavaScript`
-
-### 02 / Web Development
-
-Exploring web technologies and developing the fundamentals of website creation.
-
-`HTML`
-
-### 03 / Database
-
-Learning database concepts and managing structured information.
-
-`MySQL`
-
-### 04 / Development Tools
-
-Using development tools to write, manage, organise and maintain code.
-
-`Git` &nbsp; `GitHub` &nbsp; `Visual Studio Code`
-
-*This section reflects my current learning toolkit and will continue to grow as I gain more experience.*
-
----
-
-## 04 / RESEARCH & FUTURE DEVELOPMENT
-
-# Areas of Interest
-
-The technologies and research areas that inspire my learning journey.
-
-| AREA | INTEREST |
-|:---|:---|
-| 01 / Artificial Intelligence | Exploring intelligent systems and AI applications. |
-| 02 / Machine Learning | Understanding data-driven learning and predictive models. |
-| 03 / Cybersecurity | Exploring network security and information protection. |
-| 04 / Software Engineering | Developing reliable and efficient software solutions. |
-| 05 / Data Science | Exploring data analysis and meaningful insights. |
-| 06 / Cloud Computing | Understanding cloud infrastructure and distributed systems. |
-
----
-
-## 05 / LOOKING AHEAD
-
-# Career Goals & Development
-
-The goals guiding my journey towards becoming a professional Software Engineer.
-
-**01** &nbsp; Improve my programming and problem-solving abilities.
-
-**02** &nbsp; Develop stronger knowledge in networking and cybersecurity.
-
-**03** &nbsp; Build practical experience through academic and personal projects.
-
-**04** &nbsp; Explore emerging technologies, particularly AI and cloud computing.
-
-**05** &nbsp; Continue learning and develop industry-relevant technical skills.
-
-**06** &nbsp; Build a successful career as a Software Engineer.
-
----
-
-## 06 / SELECTED WORK
-
-# Projects & Development
-
-A space to showcase my academic work, programming experiments and personal development projects.
-
-**PROJECT 01**
-
-### [Project Name](PROJECT_LINK)
-
-A brief description of the project, its purpose and the problem it addresses.
-
-`TECHNOLOGIES USED`
-
----
-
-**PROJECT 02**
-
-### [Project Name](PROJECT_LINK)
-
-A brief description of the project's main features and development process.
-
-`TECHNOLOGIES USED`
-
----
-
-**PROJECT 03**
-
-### [Project Name](PROJECT_LINK)
-
-A brief description of the project and the technical knowledge gained.
-
-`TECHNOLOGIES USED`
-
-*More projects will be added as I continue learning, building and experimenting.*
-
----
-
-## 07 / GET IN TOUCH
-
-# Connect With Me
-
-Feel free to connect with me, share ideas or discuss technology, programming and software development.
-
-| PLATFORM | CONTACT |
-|:---|:---|
-| EMAIL | [isaactan3107@gmail.com](mailto:isaactan3107@gmail.com) |
-| LINKEDIN | [Danish Isaac Tan ↗](https://www.linkedin.com/in/danishisaactan/) |
-| PORTFOLIO | [Visit My Portfolio ↗](https://github.com/DanishIsaacTan/DanishIsaacTan.github.io) |
-| GITHUB | [Isaac ↗](https://github.com/Isaac) |
-| INSTAGRAM | [@dnshisaac ↗](https://www.instagram.com/dnshisaac/) |
-| WHATSAPP | [Let's Connect ↗](https://wa.me/60187784731) |
-
----
-
 <div align="center">
 
-### LEARN · BUILD · GROW
+<img src="https://skillicons.dev/icons?i=java,cpp,js,html,mysql" height="45"/>
 
-*Building knowledge, developing skills and creating possibilities.*
+### Universiti Teknologi Malaysia
 
-<br>
+**Bachelor of Computer Science (Network and Security)**
 
-**DANISH ISAAC TAN**
-
-Computer Science Student · Universiti Teknologi Malaysia
-
-<br>
-
-© 2026 Danish Isaac Tan. Built with a learning mindset.
-
-</div>
+Malaysia 🇲🇾
