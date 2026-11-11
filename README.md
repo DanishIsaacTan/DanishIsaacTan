@@ -50,13 +50,6 @@
 
 </details>
 
-<details open>
-<summary><b>👋 Say hello</b></summary>
-<br/>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=danishisaactan&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351931617%3Fu%3D3b39d172282c55be2350227015458f8ebd4870a6%26v%3D4" alt="danishisaactan social visual" />
-</p>
 
-</details>
 
