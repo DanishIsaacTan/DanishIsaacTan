@@ -14,8 +14,8 @@
   <img src="https://www.gitskins.com/api/section/projects?username=danishisaactan&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F351931617%3Fu%3D3b39d172282c55be2350227015458f8ebd4870a6%26v%3D4" alt="danishisaactan projects visual" />
 </p>
 
-- [DanishIsaacTan](https://github.com/DanishIsaacTan/DanishIsaacTan) · ★ 0 — Welcome to my portfolio.
-- [DanishIsaacTan.github.io](https://github.com/DanishIsaacTan/DanishIsaacTan.github.io) · ★ 0 — My personal portfolio website.
+- [DanishIsaacTan](https://github.com/DanishIsaacTan/DanishIsaacTan) · ★  — Welcome to my portfolio.
+- [DanishIsaacTan.github.io](https://github.com/DanishIsaacTan/DanishIsaacTan.github.io) · ★  — My personal portfolio website.
 
 </details>
 
