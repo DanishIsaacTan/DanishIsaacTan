@@ -4,7 +4,6 @@
 
 <p align="center"><b>Isaac</b> · Product-minded developer<br/><sub>Building in public on GitHub.</sub></p>
 
-<p align="center"><a href="https://github.com/danishisaactan">GitHub</a></p>
 
 <details open>
 <summary><b>📌 Top projects</b></summary>
