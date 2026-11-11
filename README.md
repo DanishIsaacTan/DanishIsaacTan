@@ -1,209 +1,223 @@
-<!-- ======================================================= -->
-<!--                 DANISH ISAAC TAN                         -->
-<!--                  GITHUB PROFILE                          -->
-<!-- ======================================================= -->
-
 <div align="center">
 
-# Hi, I'm Danish Isaac Tan 👋
+# DANISH ISAAC TAN
 
-### Computer Science Student | Aspiring Software Engineer
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Aspiring+Software+Engineer;Cybersecurity+Enthusiast;Software+%26+Web+Developer;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
+**PROFESSIONAL DEVELOPMENT PORTFOLIO**
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Isaac)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishisaactan/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:isaactan3107@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dnshisaac/)
+# Hi, I'm
+
+# Danish Isaac Tan
+
+### Computer Science Student
+
+Interested in software development, computer networks, cybersecurity and emerging technologies. I am building my technical foundation through continuous learning, programming and hands-on practice.
 
 <br>
 
-📍 Malaysia &nbsp; | &nbsp; 🎓 Universiti Teknologi Malaysia
+[**Discover More ↘**](#01--introduction) &nbsp;&nbsp;&nbsp; [**Connect With Me ↗**](#05--get-in-touch)
+
+<br>
+
+Currently studying at **Universiti Teknologi Malaysia (UTM)** · Malaysia
+
+<br>
+
+---
+
+**STUDENT PROFILE**
+
+<br>
+
+### LEARN · BUILD · GROW
+
+`JAVA` &nbsp; `C++` &nbsp; `JAVASCRIPT` &nbsp; `HTML` &nbsp; `MYSQL`
+
+<br>
+
+**01 / CURIOUS MIND**
+
+*Future-Focused ↗*
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 01 / INTRODUCTION
 
-Hello! I'm **Danish Isaac Tan**, a Computer Science student at **Universiti Teknologi Malaysia (UTM)**, pursuing a degree in **Computer Science (Network and Security)**.
+# About Me
 
-I am passionate about technology and enjoy exploring different areas of computing, particularly software development, web development, artificial intelligence, and cybersecurity.
+**Curious about how technology works and how it can make a difference.**
 
-I believe in continuous learning, improving my technical abilities, and gaining practical experience through programming and hands-on projects.
+I am Danish Isaac Tan, a Computer Science student at Universiti Teknologi Malaysia, pursuing a degree in Computer Science (Network and Security).
 
-My ultimate goal is to become a **Software Engineer**, where I can apply my knowledge, solve real-world problems, and contribute to meaningful technological innovations.
+I am passionate about technology, programming, software development and cybersecurity. I enjoy exploring new technologies, developing technical skills and challenging myself through programming and practical projects.
 
-- 🎓 Currently pursuing a Degree in Computer Science (Network and Security).
-- 💻 Interested in software and web development.
-- 🔐 Exploring cybersecurity and network security.
-- 🤖 Interested in Artificial Intelligence and Machine Learning.
-- 📊 Exploring Data Science and Cloud Computing.
-- 🚀 Always learning and developing new technical skills.
+I believe that continuous learning and practical experience are essential to becoming a capable software engineer.
 
 ---
 
-## 🛠️ Technical Skills
+## 02 / ACADEMIC BACKGROUND
 
-### Programming Languages
+# My Education
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,cpp,js" />
-</p>
+The academic journey shaping my foundation in computer science, networking and information security.
 
-### Web Development
+**UNDERGRADUATE STUDIES**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html" />
-</p>
+### Universiti Teknologi Malaysia (UTM)
 
-### Database
+Bachelor of Computer Science (Network and Security)
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
+Currently developing knowledge and technical skills in computer science, programming, computer networks and cybersecurity.
 
-### Development Tools
+**FIELD OF STUDY**
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`COMPUTER SCIENCE` &nbsp; `NETWORKS` &nbsp; `SECURITY`
 
 ---
 
-## 🔬 Research Interests
+## 03 / TECHNICAL FOUNDATION
 
-I'm interested in exploring emerging technologies and developing knowledge in the following areas:
+# Skills & Tools
 
-| Research Area | Interest |
+The programming languages, technologies and development tools I use as I continue expanding my technical capabilities.
+
+### 01 / Programming
+
+Building programming fundamentals, developing logical thinking and practising problem-solving.
+
+`Java` &nbsp; `C++` &nbsp; `JavaScript`
+
+### 02 / Web Development
+
+Exploring web technologies and developing the fundamentals of website creation.
+
+`HTML`
+
+### 03 / Database
+
+Learning database concepts and managing structured information.
+
+`MySQL`
+
+### 04 / Development Tools
+
+Using development tools to write, manage, organise and maintain code.
+
+`Git` &nbsp; `GitHub` &nbsp; `Visual Studio Code`
+
+*This section reflects my current learning toolkit and will continue to grow as I gain more experience.*
+
+---
+
+## 04 / RESEARCH & FUTURE DEVELOPMENT
+
+# Areas of Interest
+
+The technologies and research areas that inspire my learning journey.
+
+| AREA | INTEREST |
 |:---|:---|
-| 🤖 Artificial Intelligence | Intelligent systems and AI applications |
-| 🧠 Machine Learning | Data-driven learning and predictive models |
-| 🔐 Cybersecurity | Network security and information protection |
-| 💻 Software Engineering | Software design and development |
-| 📊 Data Science | Data analysis and information insights |
-| ☁️ Cloud Computing | Cloud infrastructure and distributed systems |
+| 01 / Artificial Intelligence | Exploring intelligent systems and AI applications. |
+| 02 / Machine Learning | Understanding data-driven learning and predictive models. |
+| 03 / Cybersecurity | Exploring network security and information protection. |
+| 04 / Software Engineering | Developing reliable and efficient software solutions. |
+| 05 / Data Science | Exploring data analysis and meaningful insights. |
+| 06 / Cloud Computing | Understanding cloud infrastructure and distributed systems. |
 
 ---
 
-## 🚀 Featured Projects
+## 05 / LOOKING AHEAD
 
-I am continuously working on improving my programming and development skills through academic and personal projects.
+# Career Goals & Development
 
-<!-- Replace the placeholders below with your actual projects -->
+The goals guiding my journey towards becoming a professional Software Engineer.
 
-<table>
-<tr>
-<td width="50%">
+**01** &nbsp; Improve my programming and problem-solving abilities.
 
-### 📌 Project 01
-**[Project Name](PROJECT_REPOSITORY_LINK)**
+**02** &nbsp; Develop stronger knowledge in networking and cybersecurity.
 
-Briefly describe your project, its purpose, and the problem it solves.
+**03** &nbsp; Build practical experience through academic and personal projects.
 
-**Technologies:** Java / C++ / MySQL
+**04** &nbsp; Explore emerging technologies, particularly AI and cloud computing.
 
-</td>
-<td width="50%">
+**05** &nbsp; Continue learning and develop industry-relevant technical skills.
 
-### 📌 Project 02
-**[Project Name](PROJECT_REPOSITORY_LINK)**
-
-Briefly describe your project, its main features, and your contribution.
-
-**Technologies:** HTML / JavaScript
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📌 Project 03
-**[Project Name](PROJECT_REPOSITORY_LINK)**
-
-Briefly describe your project and what you learned while developing it.
-
-**Technologies:** Add technologies here
-
-</td>
-<td width="50%">
-
-### 📌 Project 04
-**[Project Name](PROJECT_REPOSITORY_LINK)**
-
-Briefly describe another academic or personal development project.
-
-**Technologies:** Add technologies here
-
-</td>
-</tr>
-</table>
+**06** &nbsp; Build a successful career as a Software Engineer.
 
 ---
 
-## 📊 GitHub Statistics
+## 06 / SELECTED WORK
 
-<div align="center">
+# Projects & Development
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Isaac&show_icons=true&theme=default&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics" />
+A space to showcase my academic work, programming experiments and personal development projects.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isaac&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Most Used Languages" />
+**PROJECT 01**
 
-<br>
+### [Project Name](PROJECT_LINK)
 
-<img src="https://streak-stats.demolab.com?user=Isaac&theme=default&hide_border=true" alt="GitHub Contribution Streak" />
+A brief description of the project, its purpose and the problem it addresses.
 
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-I'm continuously working towards developing my technical knowledge, gaining practical experience, and expanding my professional capabilities.
-
-**Achievements**
-- [Add your academic achievements here]
-- [Add your programming competition achievements here]
-- [Add your technical milestones here]
-
-**Certifications**
-- [Certification Name] — [Issuing Organization]
-- [Certification Name] — [Issuing Organization]
+`TECHNOLOGIES USED`
 
 ---
 
-## 📫 Connect With Me
+**PROJECT 02**
 
-I'm always open to connecting with fellow developers, students, and technology enthusiasts.
+### [Project Name](PROJECT_LINK)
 
-<div align="center">
+A brief description of the project's main features and development process.
 
-| Platform | Contact |
+`TECHNOLOGIES USED`
+
+---
+
+**PROJECT 03**
+
+### [Project Name](PROJECT_LINK)
+
+A brief description of the project and the technical knowledge gained.
+
+`TECHNOLOGIES USED`
+
+*More projects will be added as I continue learning, building and experimenting.*
+
+---
+
+## 07 / GET IN TOUCH
+
+# Connect With Me
+
+Feel free to connect with me, share ideas or discuss technology, programming and software development.
+
+| PLATFORM | CONTACT |
 |:---|:---|
-| 📧 Email | [isaactan3107@gmail.com](mailto:isaactan3107@gmail.com) |
-| 💼 LinkedIn | [Danish Isaac Tan](https://www.linkedin.com/in/danishisaactan/) |
-| 🌐 Portfolio | [Visit My Portfolio](https://github.com/DanishIsaacTan/DanishIsaacTan.github.io) |
-| 📱 WhatsApp | [Message Me](https://wa.me/60187784731) |
-| 📸 Instagram | [@dnshisaac](https://www.instagram.com/dnshisaac/) |
-| 🐙 GitHub | [@Isaac](https://github.com/Isaac) |
-
-</div>
+| EMAIL | [isaactan3107@gmail.com](mailto:isaactan3107@gmail.com) |
+| LINKEDIN | [Danish Isaac Tan ↗](https://www.linkedin.com/in/danishisaactan/) |
+| PORTFOLIO | [Visit My Portfolio ↗](https://github.com/DanishIsaacTan/DanishIsaacTan.github.io) |
+| GITHUB | [Isaac ↗](https://github.com/Isaac) |
+| INSTAGRAM | [@dnshisaac ↗](https://www.instagram.com/dnshisaac/) |
+| WHATSAPP | [Let's Connect ↗](https://wa.me/60187784731) |
 
 ---
 
 <div align="center">
 
-### 💡 "Building knowledge, writing code, and creating possibilities."
+### LEARN · BUILD · GROW
 
-Thanks for visiting my GitHub profile!
-
-<img src="https://komarev.com/ghpvc/?username=Isaac&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile Views" />
+*Building knowledge, developing skills and creating possibilities.*
 
 <br>
 
-⭐ Feel free to explore my repositories and connect with me!
+**DANISH ISAAC TAN**
+
+Computer Science Student · Universiti Teknologi Malaysia
+
+<br>
+
+© 2026 Danish Isaac Tan. Built with a learning mindset.
 
 </div>
